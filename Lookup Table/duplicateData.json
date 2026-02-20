@@ -1,0 +1,82 @@
+[
+  {"name": "Aarav", "age": 14, "class": "8", "mobile": "9876543210"},
+  {"name": "Aarav", "age": 14, "class": "8", "mobile": "9876543210"},
+  {"name": "Aarav", "age": 14, "class": "8", "mobile": "9876543210"},
+
+  {"name": "Saanvi", "age": 12, "class": "6", "mobile": "9876543211"},
+  {"name": "Saanvi", "age": 12, "class": "6", "mobile": "9876543211"},
+
+  {"name": "Rohan", "age": 15, "class": "9", "mobile": "9876543212"},
+  {"name": "Rohan", "age": 15, "class": "9", "mobile": "9876543212"},
+
+  {"name": "Aditya", "age": 13, "class": "7", "mobile": "9876543213"},
+  {"name": "Aditya", "age": 13, "class": "7", "mobile": "9876543213"},
+
+  {"name": "Ishita", "age": 14, "class": "8", "mobile": "9876543214"},
+
+  {"name": "Krishna", "age": 16, "class": "10", "mobile": "9876543215"},
+  {"name": "Krishna", "age": 16, "class": "10", "mobile": "9876543215"},
+
+  {"name": "Maya", "age": 15, "class": "9", "mobile": "9876543216"},
+
+  {"name": "Aisha", "age": 13, "class": "7", "mobile": "9876543217"},
+  {"name": "Aisha", "age": 13, "class": "7", "mobile": "9876543217"},
+
+  {"name": "Kabir", "age": 12, "class": "6", "mobile": "9876543218"},
+
+  {"name": "Vivaan", "age": 14, "class": "8", "mobile": "9876543219"},
+  {"name": "Vivaan", "age": 14, "class": "8", "mobile": "9876543219"},
+  {"name": "Vivaan", "age": 14, "class": "8", "mobile": "9876543219"},
+
+  {"name": "Neha", "age": 15, "class": "9", "mobile": "9876543220"},
+
+  {"name": "Sameer", "age": 16, "class": "10", "mobile": "9876543221"},
+
+  {"name": "Dev", "age": 13, "class": "7", "mobile": "9876543222"},
+  {"name": "Dev", "age": 13, "class": "7", "mobile": "9876543222"},
+
+  {"name": "Alia", "age": 14, "class": "8", "mobile": "9876543223"},
+
+  {"name": "Harsh", "age": 16, "class": "10", "mobile": "9876543224"},
+  {"name": "Harsh", "age": 16, "class": "10", "mobile": "9876543224"},
+
+  {"name": "Reyansh", "age": 12, "class": "6", "mobile": "9876543225"},
+
+  {"name": "Aisha", "age": 13, "class": "7", "mobile": "9876543217"},
+
+  {"name": "Akash", "age": 15, "class": "9", "mobile": "9876543226"},
+
+  {"name": "Sneha", "age": 16, "class": "10", "mobile": "9876543227"},
+
+  {"name": "Gaurav", "age": 14, "class": "8", "mobile": "9876543228"},
+  {"name": "Gaurav", "age": 14, "class": "8", "mobile": "9876543228"},
+
+  {"name": "Jiya", "age": 12, "class": "6", "mobile": "9876543229"},
+
+  {"name": "Rudra", "age": 13, "class": "7", "mobile": "9876543230"},
+
+  {"name": "Neeraj", "age": 16, "class": "10", "mobile": "9876543231"},
+
+  {"name": "Siddharth", "age": 14, "class": "8", "mobile": "9876543232"},
+
+  {"name": "Mira", "age": 15, "class": "9", "mobile": "9876543233"},
+  {"name": "Mira", "age": 15, "class": "9", "mobile": "9876543233"},
+
+  {"name": "Veer", "age": 16, "class": "10", "mobile": "9876543234"},
+
+  {"name": "Isha", "age": 13, "class": "7", "mobile": "9876543235"},
+
+  {"name": "Karan", "age": 12, "class": "6", "mobile": "9876543236"},
+  {"name": "Karan", "age": 12, "class": "6", "mobile": "9876543236"},
+
+  {"name": "Simran", "age": 14, "class": "8", "mobile": "9876543237"},
+
+  {"name": "Rehan", "age": 15, "class": "9", "mobile": "9876543238"},
+
+  {"name": "Gauri", "age": 12, "class": "6", "mobile": "9876543239"},
+
+  {"name": "Kabir", "age": 12, "class": "6", "mobile": "9876543218"},
+  {"name": "Kabir", "age": 12, "class": "6", "mobile": "9876543218"},
+
+  {"name": "Anaya", "age": 12, "class": "6", "mobile": "9876543240"}
+]

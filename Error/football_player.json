@@ -1,0 +1,12 @@
+[
+  { "player_id": 10, "player_name": "Lionel Messi", "club": "Inter Miami", "position": "Forward" },
+  { "player_id": 7,  "player_name": "Cristiano Ronaldo", "club": "Al Nassr", "position": "Forward" },
+  { "player_id": 11, "player_name": "Neymar Jr", "club": "Al Hilal", "position": "Forward" },
+  { "player_id": 9,  "player_name": "Robert Lewandowski", "club": "Barcelona", "position": "Striker" },
+  { "player_id": 8,  "player_name": "Kevin De Bruyne", "club": "Manchester City", "position": "Midfielder" },
+  { "player_id": 17, "player_name": "Kevin De Bruyne", "club": "Manchester City", "position": "Midfielder" },
+  { "player_id": 22, "player_name": "Jude Bellingham", "club": "Real Madrid", "position": "Midfielder" },
+  { "player_id": 5,  "player_name": "Sergio Busquets", "club": "Inter Miami", "position": "Midfielder" },
+  { "player_id": 4,  "player_name": "Virgil van Dijk", "club": "Liverpool", "position": "Defender" },
+  { "player_id": 1,  "player_name": "Manuel Neuer", "club": "Bayern Munich", "position": "Goalkeeper" }
+]

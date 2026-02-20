@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Arjun Mehta",
+    "age": 28,
+    "country": "IND",
+    "department": "Engineering",
+    "mobile": "+91-9876543210"
+  },
+  {
+    "name": "Sophia Williams",
+    "age": 32,
+    "country": "USA",
+    "department": "Marketing",
+    "mobile": "+1-2025550148"
+  },
+  {
+    "name": "Liam Brown",
+    "age": 26,
+    "country": "UK",
+    "department": "Finance",
+    "mobile": "+44-7456781234"
+  },
+  {
+    "name": "Aisha Khan",
+    "age": 30,
+    "country": "UAE",
+    "department": "HR",
+    "mobile": "+971-509876543"
+  },
+  {
+    "name": "Adnan Khan",
+    "age": 25,
+    "country": "IND",
+    "department": "IT",
+    "mobile": "+20-1156782345"
+  },
+
+  {
+    "name": "Hiroshi Tanaka",
+    "age": 35,
+    "country": "JPN",
+    "department": "Operations",
+    "mobile": "+81-9087654321"
+  },
+  {
+    "name": "Ethan Miller",
+    "age": 29,
+    "country": "AUS",
+    "department": "Support",
+    "mobile": "+61-402345678"
+  },
+  {
+    "name": "Maria Gonzalez",
+    "age": 33,
+    "country": "ESP",
+    "department": "Design",
+    "mobile": "+34-612345678"
+  },
+  {
+    "name": "Ahmed Mustafa",
+    "age": 31,
+    "country": "EGY",
+    "department": "Production",
+    "mobile": "+20-1156782345"
+  },
+  {
+    "name": "Vishal Kumar",
+    "age": 31,
+    "country": "IND",
+    "department": "Production",
+    "mobile": "+20-1156782345"
+  },
+
+
+  {
+    "name": "Chen Wei",
+    "age": 27,
+    "country": "CHN",
+    "department": "QA",
+    "mobile": "+86-13987654321"
+  },
+  {
+    "name": "Isabella Rossi",
+    "age": 34,
+    "country": "ITA",
+    "department": "Sales",
+    "mobile": "+39-3351234567"
+  }
+]

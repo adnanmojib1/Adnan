@@ -1,0 +1,107 @@
+<Sales>
+
+  <Accounts>
+    <Account>
+      <customerID>C001</customerID>
+      <CustomerName>Rahul Sharma</CustomerName>
+      <customerContact>9876543210</customerContact>
+      <customerAddress>Delhi</customerAddress>
+    </Account>
+    <Account>
+      <customerID>C002</customerID>
+      <CustomerName>Amit Verma</CustomerName>
+      <customerContact>9876543211</customerContact>
+      <customerAddress>Mumbai</customerAddress>
+    </Account>
+    <Account>
+      <customerID>C003</customerID>
+      <CustomerName>Neha Singh</CustomerName>
+      <customerContact>9876543212</customerContact>
+      <customerAddress>Pune</customerAddress>
+    </Account>
+    <Account>
+      <customerID>C004</customerID>
+      <CustomerName>Pooja Mehta</CustomerName>
+      <customerContact>9876543213</customerContact>
+      <customerAddress>Ahmedabad</customerAddress>
+    </Account>
+    <Account>
+      <customerID>C005</customerID>
+      <CustomerName>Arjun Patel</CustomerName>
+      <customerContact>9876543214</customerContact>
+      <customerAddress>Surat</customerAddress>
+    </Account>
+    <Account>
+      <customerID>C006</customerID>
+      <CustomerName>Karan Malhotra</CustomerName>
+      <customerContact>9876543215</customerContact>
+      <customerAddress>Chandigarh</customerAddress>
+    </Account>
+    <Account>
+      <customerID>C007</customerID>
+      <CustomerName>Simran Kaur</CustomerName>
+      <customerContact>9876543216</customerContact>
+      <customerAddress>Amritsar</customerAddress>
+    </Account>
+    <Account>
+      <customerID>C008</customerID>
+      <CustomerName>Rohit Jain</CustomerName>
+      <customerContact>9876543217</customerContact>
+      <customerAddress>Indore</customerAddress>
+    </Account>
+    <Account>
+      <customerID>C009</customerID>
+      <CustomerName>Anjali Gupta</CustomerName>
+      <customerContact>9876543218</customerContact>
+      <customerAddress>Jaipur</customerAddress>
+    </Account>
+    <Account>
+      <customerID>C010</customerID>
+      <CustomerName>Vikas Yadav</CustomerName>
+      <customerContact>9876543219</customerContact>
+      <customerAddress>Lucknow</customerAddress>
+    </Account>
+  </Accounts>
+
+  <Items>
+
+    <!-- Repeated Item -->
+    <Item><itemID>I001</itemID><customerID>C001</customerID><itemName>Laptop</itemName><unitPrice>55000</unitPrice></Item>
+    <Item><itemID>I001</itemID><customerID>C003</customerID><itemName>Laptop</itemName><unitPrice>55000</unitPrice></Item>
+    <Item><itemID>I002</itemID><customerID>C002</customerID><itemName>Mobile Phone</itemName><unitPrice>20000</unitPrice></Item>
+    <Item><itemID>I002</itemID><customerID>C005</customerID><itemName>Mobile Phone</itemName><unitPrice>20000</unitPrice></Item>
+    <Item><itemID>I003</itemID><customerID>C004</customerID><itemName>Keyboard</itemName><unitPrice>800</unitPrice></Item>
+    <Item><itemID>I004</itemID><customerID>C006</customerID><itemName>Mouse</itemName><unitPrice>500</unitPrice></Item>
+    <Item><itemID>I005</itemID><customerID>C007</customerID><itemName>Monitor</itemName><unitPrice>12000</unitPrice></Item>
+    <Item><itemID>I006</itemID><customerID>C008</customerID><itemName>Printer</itemName><unitPrice>9000</unitPrice></Item>
+    <Item><itemID>I007</itemID><customerID>C009</customerID><itemName>Scanner</itemName><unitPrice>7000</unitPrice></Item>
+    <Item><itemID>I008</itemID><customerID>C010</customerID><itemName>Webcam</itemName><unitPrice>2500</unitPrice></Item>
+	  <Item><itemID>I003</itemID><customerID>C001</customerID><itemName>Keyboard</itemName><unitPrice>800</unitPrice></Item>
+    <Item><itemID>I003</itemID><customerID>C002</customerID><itemName>Keyboard</itemName><unitPrice>800</unitPrice></Item>
+    <Item><itemID>I004</itemID><customerID>C003</customerID><itemName>Mouse</itemName><unitPrice>500</unitPrice></Item>
+    <Item><itemID>I004</itemID><customerID>C004</customerID><itemName>Mouse</itemName><unitPrice>500</unitPrice></Item>
+    <Item><itemID>I005</itemID><customerID>C005</customerID><itemName>Monitor</itemName><unitPrice>12000</unitPrice></Item>
+    <Item><itemID>I005</itemID><customerID>C006</customerID><itemName>Monitor</itemName><unitPrice>12000</unitPrice></Item>
+    <Item><itemID>I006</itemID><customerID>C007</customerID><itemName>Printer</itemName><unitPrice>9000</unitPrice></Item>
+    <Item><itemID>I006</itemID><customerID>C008</customerID><itemName>Printer</itemName><unitPrice>9000</unitPrice></Item>
+    <Item><itemID>I007</itemID><customerID>C009</customerID><itemName>Scanner</itemName><unitPrice>7000</unitPrice></Item>
+    <Item><itemID>I007</itemID><customerID>C010</customerID><itemName>Scanner</itemName><unitPrice>7000</unitPrice></Item>
+    <Item><itemID>I008</itemID><customerID>C001</customerID><itemName>Webcam</itemName><unitPrice>2500</unitPrice></Item>
+    <Item><itemID>I008</itemID><customerID>C002</customerID><itemName>Webcam</itemName><unitPrice>2500</unitPrice></Item>
+    <Item><itemID>I009</itemID><customerID>C003</customerID><itemName>Headphones</itemName><unitPrice>3000</unitPrice></Item>
+    <Item><itemID>I009</itemID><customerID>C004</customerID><itemName>Headphones</itemName><unitPrice>3000</unitPrice></Item>
+    <Item><itemID>I010</itemID><customerID>C005</customerID><itemName>USB Drive</itemName><unitPrice>700</unitPrice></Item>
+    <Item><itemID>I010</itemID><customerID>C006</customerID><itemName>USB Drive</itemName><unitPrice>700</unitPrice></Item>
+    <Item><itemID>I011</itemID><customerID>C007</customerID><itemName>External HDD</itemName><unitPrice>6000</unitPrice></Item>
+    <Item><itemID>I011</itemID><customerID>C008</customerID><itemName>External HDD</itemName><unitPrice>6000</unitPrice></Item>
+    <Item><itemID>I012</itemID><customerID>C009</customerID><itemName>Router</itemName><unitPrice>3500</unitPrice></Item>
+    <Item><itemID>I012</itemID><customerID>C010</customerID><itemName>Router</itemName><unitPrice>3500</unitPrice></Item>
+    <Item><itemID>I001</itemID><customerID>C004</customerID><itemName>Laptop</itemName><unitPrice>55000</unitPrice></Item>
+    <Item><itemID>I002</itemID><customerID>C006</customerID><itemName>Mobile Phone</itemName><unitPrice>20000</unitPrice></Item>
+    <Item><itemID>I001</itemID><customerID>C010</customerID><itemName>Laptop</itemName><unitPrice>55000</unitPrice></Item>
+
+    <!-- You can continue same pattern till 50 items -->
+    
+  </Items>
+
+</Sales>

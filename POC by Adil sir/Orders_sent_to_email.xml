@@ -1,0 +1,147 @@
+<Orders>
+  <Order>
+    <order_id>1001</order_id>
+    <name>Adnan Khan</name>
+    <date>2025-01-15</date>
+    <location>Mumbai</location>
+    <pincode>400001</pincode>
+
+    <Items>
+      <Item>
+        <item_id>1</item_id>
+        <name>Mobile Cover</name>
+        <amount>299</amount>
+        <quantity>2</quantity>
+      </Item>
+      <Item>
+        <item_id>2</item_id>
+        <name>Charger</name>
+        <amount>599</amount>
+        <quantity>1</quantity>
+      </Item>
+      <Item>
+        <item_id>3</item_id>
+        <name>USB Cable</name>
+        <amount>199</amount>
+        <quantity>3</quantity>
+      </Item>
+    </Items>
+  </Order>
+
+  <Order>
+    <order_id>1002</order_id>
+    <name>Riya Patel</name>
+    <date>2025-01-16</date>
+    <location>Delhi</location>
+    <pincode>110001</pincode>
+
+    <Items>
+      <Item>
+        <item_id>1</item_id>
+        <name>Laptop Bag</name>
+        <amount>1299</amount>
+        <quantity>1</quantity>
+      </Item>
+      <Item>
+        <item_id>2</item_id>
+        <name>Mouse</name>
+        <amount>499</amount>
+        <quantity>2</quantity>
+      </Item>
+      <Item>
+        <item_id>3</item_id>
+        <name>Keyboard</name>
+        <amount>899</amount>
+        <quantity>1</quantity>
+      </Item>
+    </Items>
+  </Order>
+
+  <Order>
+    <order_id>1003</order_id>
+    <name>Rohan Sharma</name>
+    <date>2025-01-17</date>
+    <location>Bangalore</location>
+    <pincode>560001</pincode>
+
+    <Items>
+      <Item>
+        <item_id>1</item_id>
+        <name>Notebook</name>
+        <amount>149</amount>
+        <quantity>5</quantity>
+      </Item>
+      <Item>
+        <item_id>2</item_id>
+        <name>Pens</name>
+        <amount>80</amount>
+        <quantity>10</quantity>
+      </Item>
+      <Item>
+        <item_id>3</item_id>
+        <name>Stapler</name>
+        <amount>120</amount>
+        <quantity>1</quantity>
+      </Item>
+    </Items>
+  </Order>
+
+  <Order>
+    <order_id>1004</order_id>
+    <name>Sana Sheikh</name>
+    <date>2025-01-18</date>
+    <location>Hyderabad</location>
+    <pincode>500001</pincode>
+
+    <Items>
+      <Item>
+        <item_id>1</item_id>
+        <name>Bluetooth Speaker</name>
+        <amount>1999</amount>
+        <quantity>1</quantity>
+      </Item>
+      <Item>
+        <item_id>2</item_id>
+        <name>Power Bank</name>
+        <amount>999</amount>
+        <quantity>1</quantity>
+      </Item>
+      <Item>
+        <item_id>3</item_id>
+        <name>Earphones</name>
+        <amount>499</amount>
+        <quantity>2</quantity>
+      </Item>
+    </Items>
+  </Order>
+
+  <Order>
+    <order_id>1005</order_id>
+    <name>Aarav Verma</name>
+    <date>2025-01-19</date>
+    <location>Pune</location>
+    <pincode>411001</pincode>
+
+    <Items>
+      <Item>
+        <item_id>1</item_id>
+        <name>T-Shirt</name>
+        <amount>699</amount>
+        <quantity>1</quantity>
+      </Item>
+      <Item>
+        <item_id>2</item_id>
+        <name>Jeans</name>
+        <amount>1599</amount>
+        <quantity>1</quantity>
+      </Item>
+      <Item>
+        <item_id>3</item_id>
+        <name>Socks</name>
+        <amount>199</amount>
+        <quantity>3</quantity>
+      </Item>
+    </Items>
+  </Order>
+
+</Orders>

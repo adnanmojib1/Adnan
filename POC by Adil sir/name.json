@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Karan",
+    "age": 25,
+    "email": "karan@example.com",
+    "address": "Mumbai, India"
+  },
+  {
+    "id": 2,
+    "name": "Rohit",
+    "age": 27,
+    "email": "rohit@example.com",
+    "address": "Delhi, India"
+  },
+  {
+    "id": 3,
+    "name": "Sneha",
+    "age": 23,
+    "email": "sneha@example.com",
+    "address": "Pune, India"
+  },
+  {
+    "id": 4,
+    "name": "Aisha",
+    "age": 26,
+    "email": "aisha@example.com",
+    "address": "Hyderabad, India"
+  },
+  {
+    "id": 5,
+    "name": "Vikram",
+    "age": 30,
+    "email": "vikram@example.com",
+    "address": "Bangalore, India"
+  },
+  {
+    "id": 6,
+    "name": "Adnan",
+    "age": 24,
+    "email": "adnan@example.com",
+    "address": "Chennai, India"
+  },
+  {
+    "id": 7,
+    "name": "Neha",
+    "age": 22,
+    "email": "neha@example.com",
+    "address": "Kolkata, India"
+  },
+  {
+    "id": 8,
+    "name": "Arjun",
+    "age": 29,
+    "email": "arjun@example.com",
+    "address": "Ahmedabad, India"
+  },
+  {
+    "id": 9,
+    "name": "Meera",
+    "age": 28,
+    "email": "meera@example.com",
+    "address": "Surat, India"
+  },
+  {
+    "id": 10,
+    "name": "Farhan",
+    "age": 31,
+    "email": "farhan@example.com",
+    "address": "Lucknow, India"
+  }
+]

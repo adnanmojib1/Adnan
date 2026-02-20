@@ -1,0 +1,25 @@
+{
+  "library": {
+    "name": "City Central Library",
+    "books": [
+      {
+        "id": 101,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "available": true
+      },
+      {
+        "id": 102,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "available": false
+      },
+      {
+        "id": 103,
+        "title": "1984",
+        "author": "George Orwell",
+        "available": true
+      }
+    ]
+  }
+}

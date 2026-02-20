@@ -1,0 +1,24 @@
+{
+  "student": {
+    "id": 101,
+    "name": "Mohammad Adnan Khan",
+    "age": 22,
+    "course": "Computer Science",
+    "year": "Final Year",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "Database Management",
+      "Web Technologies"
+    ],
+    "contact": {
+      "email": "adnan@example.com",
+      "phone": "+91-9876543210"
+    },
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India"
+    }
+  }
+}

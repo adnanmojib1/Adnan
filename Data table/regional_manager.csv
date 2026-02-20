@@ -1,0 +1,10 @@
+Country,Region,Slack_Channel_ID,Manager_Email,Manager_Name
+United States,NorthAm,C0123ABCDE,sarah.jones@company.com,Sarah Jones
+Canada,NorthAm,C0123ABCDE,sarah.jones@company.com,Sarah Jones
+United Kingdom,EMEA,C0987FGHIJ,mark.smith@company.com,Mark Smith
+Germany,EMEA,C0987FGHIJ,mark.smith@company.com,Mark Smith
+France,EMEA,C0987FGHIJ,mark.smith@company.com,Mark Smith
+Singapore,APAC,C0555KLMNO,chen.wei@company.com,Chen Wei
+Australia,APAC,C0555KLMNO,chen.wei@company.com,Chen Wei
+Brazil,LATAM,C0444PQRST,elena.gomez@company.com,Elena Gomez
+Mexico,LATAM,C0444PQRST,elena.gomez@company.com,Elena Gomez

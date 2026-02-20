@@ -1,0 +1,42 @@
+ [
+    {
+      "student_id": 101,
+      "name": "Aarav Sharma",
+      "age": 15,
+      "class": "10th",
+      "marks": 89,
+      "city": "Mumbai"
+    },
+    {
+      "student_id": 102,
+      "name": "Riya Patel",
+      "age": 14,
+      "class": "9th",
+      "marks": 92,
+      "city": "Delhi"
+    },
+    {
+      "student_id": 103,
+      "name": "Mohammed Adnan",
+      "age": 16,
+      "class": "11th",
+      "marks": 85,
+      "city": "Hyderabad"
+    },
+    {
+      "student_id": 104,
+      "name": "Sana Sheikh",
+      "age": 15,
+      "class": "10th",
+      "marks": 78,
+      "city": "Bangalore"
+    },
+    {
+      "student_id": 105,
+      "name": "Rohan Verma",
+      "age": 17,
+      "class": "12th",
+      "marks": 95,
+      "city": "Pune"
+    }
+  ]

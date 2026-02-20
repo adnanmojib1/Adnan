@@ -1,0 +1,70 @@
+{
+  "PersonNumber": "EMP10245",
+  "emails": [
+    {
+      "EmailType": "H1",
+      "EmailAddress": "adnan.khan@example.com"
+    }
+  ],
+  "names": [
+    {
+      "FirstName": "Adnan",
+      "LastName": "Khan",
+      "LegislationCode": "IN",
+      "KnownAs": "Adnan",
+      "NameInformation15": "Khan"
+    }
+  ],
+  "workRelationships": [
+    {
+      "StartDate": "2026-01-01",
+      "workRelationshipsDFF": [
+        {
+          "CandidateID": "GH_789456",
+          "Source": "",
+          "SourceStrategy": "Campus Hiring"
+        }
+      ],
+      "assignments": [
+        {
+          "ProjectedEndDate": "2027-12-31",
+          "AssignmentName": "Software Engineer",
+          "AssignmentStatusTypeCode": "ACTIVE",
+          "ActionCode": "HIRE",
+          "ReasonCode": "NEW_JOINER",
+          "UserPersonType": "",
+          "ProposedUserPersonType": "Employee",
+          "BusinessUnitName": "Engineering",
+          "DepartmentName": "Platform",
+          "ProjectedStartDate": "2026-01-01",
+          "PermanentTemporary": "PERMANENT",
+          "FullPartTime": "FULL_TIME",
+          "LocationCode": "IN_BLR",
+          "AssignmentCategory": "null",
+          "workMeasures": [
+            {
+              "Value": "1.0",
+              "Unit": "FTE"
+            }
+          ],
+          "managers": [
+            {
+              "ManagerAssignmentId": "MGR_556677",
+              "ManagerType": "LINE_MANAGER"
+            }
+          ],
+          "assignmentsDFF": [
+            {
+              "jfrogSurveyName": "FY26_Eng_Survey",
+              "jfrogBenchmarkCode": "ENG_L3",
+              "jfrogEquityLevel": "L3",
+              "jfrogSample": "YES"
+            }
+          ]
+        }
+      ],
+      "LegalEmployerName": "JFrog India Pvt Ltd",
+      "WorkerType": "E"
+    }
+  ]
+}

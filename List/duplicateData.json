@@ -1,0 +1,218 @@
+[
+  {
+    "student_id": 1,
+    "name": "Student 1",
+    "age": 15,
+    "class": "9th",
+    "marks": 71,
+    "city": "City 1",
+    "phone": "92000000001"
+  },
+    {
+    "student_id": 10,
+    "name": "Student 10",
+    "age": 14,
+    "class": "8th",
+    "marks": 80,
+    "city": "City 10",
+    "phone": "92000000010"
+  },
+  {
+    "student_id": 1,
+    "name": "Student 1",
+    "age": 15,
+    "class": "9th",
+    "marks": 71,
+    "city": "City 1",
+    "phone": "92000000001"
+  },
+  {
+    "student_id": 2,
+    "name": "Student 2",
+    "age": 16,
+    "class": "10th",
+    "marks": 72,
+    "city": "City 2",
+    "phone": "92000000002"
+  },
+  {
+    "student_id": 2,
+    "name": "Student 2",
+    "age": 16,
+    "class": "10th",
+    "marks": 72,
+    "city": "City 2",
+    "phone": "92000000002"
+  },
+  {
+    "student_id": 3,
+    "name": "Student 3",
+    "age": 17,
+    "class": "11th",
+    "marks": 73,
+    "city": "City 3",
+    "phone": "92000000003"
+  },
+  {
+    "student_id": 3,
+    "name": "Student 3",
+    "age": 17,
+    "class": "11th",
+    "marks": 73,
+    "city": "City 3",
+    "phone": "92000000003"
+  },
+  {
+    "student_id": 4,
+    "name": "Student 4",
+    "age": 18,
+    "class": "12th",
+    "marks": 74,
+    "city": "City 4",
+    "phone": "92000000004"
+  },
+  {
+    "student_id": 4,
+    "name": "Student 4",
+    "age": 18,
+    "class": "12th",
+    "marks": 74,
+    "city": "City 4",
+    "phone": "92000000004"
+  },
+  {
+    "student_id": 5,
+    "name": "Student 5",
+    "age": 14,
+    "class": "8th",
+    "marks": 75,
+    "city": "City 5",
+    "phone": "92000000005"
+  },
+  {
+    "student_id": 5,
+    "name": "Student 5",
+    "age": 14,
+    "class": "8th",
+    "marks": 75,
+    "city": "City 5",
+    "phone": "92000000005"
+  },
+  {
+    "student_id": 6,
+    "name": "Student 6",
+    "age": 15,
+    "class": "9th",
+    "marks": 76,
+    "city": "City 6",
+    "phone": "92000000006"
+  },
+  {
+    "student_id": 6,
+    "name": "Student 6",
+    "age": 15,
+    "class": "9th",
+    "marks": 76,
+    "city": "City 6",
+    "phone": "92000000006"
+  },
+  {
+    "student_id": 7,
+    "name": "Student 7",
+    "age": 16,
+    "class": "10th",
+    "marks": 77,
+    "city": "City 7",
+    "phone": "92000000007"
+  },
+  {
+    "student_id": 7,
+    "name": "Student 7",
+    "age": 16,
+    "class": "10th",
+    "marks": 77,
+    "city": "City 7",
+    "phone": "92000000007"
+  },
+  {
+    "student_id": 8,
+    "name": "Student 8",
+    "age": 17,
+    "class": "11th",
+    "marks": 78,
+    "city": "City 8",
+    "phone": "92000000008"
+  },
+  {
+    "student_id": 8,
+    "name": "Student 8",
+    "age": 17,
+    "class": "11th",
+    "marks": 78,
+    "city": "City 8",
+    "phone": "92000000008"
+  },
+  {
+    "student_id": 9,
+    "name": "Student 9",
+    "age": 18,
+    "class": "12th",
+    "marks": 79,
+    "city": "City 9",
+    "phone": "92000000009"
+  },
+  {
+    "student_id": 9,
+    "name": "Student 9",
+    "age": 18,
+    "class": "12th",
+    "marks": 79,
+    "city": "City 9",
+    "phone": "92000000009"
+  },
+  {
+    "student_id": 10,
+    "name": "Student 10",
+    "age": 14,
+    "class": "8th",
+    "marks": 80,
+    "city": "City 10",
+    "phone": "92000000010"
+  },
+  {
+    "student_id": 11,
+    "name": "Student 11",
+    "age": 15,
+    "class": "9th",
+    "marks": 81,
+    "city": "City 11",
+    "phone": "92000000011"
+  },
+  {
+    "student_id": 11,
+    "name": "Student 11",
+    "age": 15,
+    "class": "9th",
+    "marks": 81,
+    "city": "City 11",
+    "phone": "92000000011"
+  },
+  {
+    "student_id": 12,
+    "name": "Student 12",
+    "age": 16,
+    "class": "10th",
+    "marks": 82,
+    "city": "City 12",
+    "phone": "92000000012"
+  },
+  {
+    "student_id": 12,
+    "name": "Student 12",
+    "age": 16,
+    "class": "10th",
+    "marks": 82,
+    "city": "City 12",
+    "phone": "92000000012"
+  }
+ ]

@@ -1,0 +1,41 @@
+{
+  "school": {
+    "students": [
+      {
+        "id": 1,
+        "name": "Amit Sharma",
+        "age": 14,
+        "class": "8A",
+        "grade": "A"
+      },
+      {
+        "id": 2,
+        "name": "Priya Singh",
+        "age": 13,
+        "class": "7B",
+        "grade": "B+"
+      },
+      {
+        "id": 3,
+        "name": "Rahul Verma",
+        "age": 15,
+        "class": "9C",
+        "grade": "A+"
+      },
+      {
+        "id": 4,
+        "name": "Sneha Patel",
+        "age": 12,
+        "class": "6A",
+        "grade": "A"
+      },
+      {
+        "id": 5,
+        "name": "Arjun Mehta",
+        "age": 14,
+        "class": "8B",
+        "grade": "B"
+      }
+    ]
+  }
+}

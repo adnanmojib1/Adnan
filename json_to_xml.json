@@ -1,0 +1,47 @@
+[
+  {
+    "first_name": "Arjun",
+    "last_name": "Kumar",
+    "age": 28,
+    "contact": "+91-9876543210",
+    "address": "12 Green Park, New Delhi - 110016",
+    "pincode": "110016",
+    "eligible_to_vote": "Yes"
+  },
+  {
+    "first_name": "Riya",
+    "last_name": "Sharma",
+    "age": 16,
+    "contact": "+91-9988776655",
+    "address": "22 Rose Villa, Jaipur - 302001",
+    "pincode": "302001",
+    "eligible_to_vote": "No"
+  },
+  {
+    "first_name": "Mohammed",
+    "last_name": "Ali",
+    "age": 21,
+    "contact": "+44-7700123456",
+    "address": "44 City Center, Mumbai - 400001",
+    "pincode": "400001",
+    "eligible_to_vote": "Yes"
+  },
+  {
+    "first_name": "Simran",
+    "last_name": "Kaur",
+    "age": 14,
+    "contact": "+1-2025550123",
+    "address": "78 Lotus Garden, Chandigarh - 160017",
+    "pincode": "160017",
+    "eligible_to_vote": "No"
+  },
+  {
+    "first_name": "Rohit",
+    "last_name": "Verma",
+    "age": 19,
+    "contact": "+971-555667788",
+    "address": "3 MG Road, Pune - 411001",
+    "pincode": "411001",
+    "eligible_to_vote": "Yes"
+  }
+]

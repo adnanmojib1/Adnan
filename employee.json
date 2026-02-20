@@ -1,0 +1,26 @@
+{
+  "company": {
+    "name": "TechVision Pvt Ltd",
+    "location": "Mumbai",
+    "employees": [
+      {
+        "id": 1,
+        "name": "Ravi Kumar",
+        "position": "Software Engineer",
+        "salary": 60000
+      },
+      {
+        "id": 2,
+        "name": "Neha Gupta",
+        "position": "Project Manager",
+        "salary": 85000
+      },
+      {
+        "id": 3,
+        "name": "Arjun Das",
+        "position": "UI/UX Designer",
+        "salary": 55000
+      }
+    ]
+  }
+}

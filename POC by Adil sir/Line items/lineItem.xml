@@ -1,0 +1,151 @@
+<Orders>
+    <!-- Order 101 -->
+    <Order>
+        <order_id>101</order_id>
+        <item_name>Mobile Phone</item_name>
+        <amount>15000</amount>
+    </Order>
+    <Order>
+        <order_id>101</order_id>
+        <item_name>Laptop</item_name>
+        <amount>55000</amount>
+    </Order>
+    <Order>
+        <order_id>101</order_id>
+        <item_name>Charger</item_name>
+        <amount>800</amount>
+    </Order>
+
+    <!-- Order 102 -->
+    <Order>
+        <order_id>102</order_id>
+        <item_name>Earphones</item_name>
+        <amount>1200</amount>
+    </Order>
+    <Order>
+        <order_id>102</order_id>
+        <item_name>Smart Watch</item_name>
+        <amount>7000</amount>
+    </Order>
+    <Order>
+        <order_id>102</order_id>
+        <item_name>Power Bank</item_name>
+        <amount>1500</amount>
+    </Order>
+
+    <!-- Order 103 -->
+    <Order>
+        <order_id>103</order_id>
+        <item_name>Headphones</item_name>
+        <amount>2500</amount>
+    </Order>
+    <Order>
+        <order_id>103</order_id>
+        <item_name>Bluetooth Speaker</item_name>
+        <amount>3000</amount>
+    </Order>
+    <Order>
+        <order_id>103</order_id>
+        <item_name>USB Cable</item_name>
+        <amount>200</amount>
+    </Order>
+
+    <!-- Order 104 -->
+    <Order>
+        <order_id>104</order_id>
+        <item_name>Smart Watch</item_name>
+        <amount>6800</amount>
+    </Order>
+    <Order>
+        <order_id>104</order_id>
+        <item_name>Fitness Band</item_name>
+        <amount>2500</amount>
+    </Order>
+
+    <!-- Order 105 -->
+    <Order>
+        <order_id>105</order_id>
+        <item_name>Tablet</item_name>
+        <amount>22000</amount>
+    </Order>
+    <Order>
+        <order_id>105</order_id>
+        <item_name>Stylus Pen</item_name>
+        <amount>900</amount>
+    </Order>
+    <Order>
+        <order_id>105</order_id>
+        <item_name>Back Cover</item_name>
+        <amount>450</amount>
+    </Order>
+
+    <!-- Order 106 -->
+    <Order>
+        <order_id>106</order_id>
+        <item_name>Keyboard</item_name>
+        <amount>1000</amount>
+    </Order>
+    <Order>
+        <order_id>106</order_id>
+        <item_name>Mouse</item_name>
+        <amount>700</amount>
+    </Order>
+
+    <!-- Order 107 -->
+    <Order>
+        <order_id>107</order_id>
+        <item_name>LED Lamp</item_name>
+        <amount>1200</amount>
+    </Order>
+    <Order>
+        <order_id>107</order_id>
+        <item_name>USB Hub</item_name>
+        <amount>600</amount>
+    </Order>
+    <Order>
+        <order_id>107</order_id>
+        <item_name>HDMI Cable</item_name>
+        <amount>350</amount>
+    </Order>
+
+    <!-- Order 108 -->
+    <Order>
+        <order_id>108</order_id>
+        <item_name>LED TV</item_name>
+        <amount>32000</amount>
+    </Order>
+    <Order>
+        <order_id>108</order_id>
+        <item_name>Wall Mount</item_name>
+        <amount>900</amount>
+    </Order>
+
+    <!-- Order 109 -->
+    <Order>
+        <order_id>109</order_id>
+        <item_name>Refrigerator</item_name>
+        <amount>40000</amount>
+    </Order>
+    <Order>
+        <order_id>109</order_id>
+        <item_name>Stabilizer</item_name>
+        <amount>2500</amount>
+    </Order>
+
+    <!-- Order 110 -->
+    <Order>
+        <order_id>110</order_id>
+        <item_name>Air Conditioner</item_name>
+        <amount>45000</amount>
+    </Order>
+    <Order>
+        <order_id>110</order_id>
+        <item_name>AC Cover</item_name>
+        <amount>750</amount>
+    </Order>
+    <Order>
+        <order_id>110</order_id>
+        <item_name>Installation Kit</item_name>
+        <amount>1200</amount>
+    </Order>
+</Orders>
